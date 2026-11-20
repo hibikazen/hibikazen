@@ -3,8 +3,9 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Hibikazen"/></picture>
 
 <a href="https://github.com/hibikazen/ai-bug-bounty-hunter"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/STARTER_KIT-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/STARTER_KIT-ffffff?style=flat-square" alt="Starter kit"/></picture></a>
-<a href="https://hibikazen.github.io/makefun-gta6-01/game/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SUNSET_BAY-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/SUNSET_BAY-ffffff?style=flat-square" alt="Sunset Bay game"/></picture></a>
-<a href="https://hibikazen.github.io/makefun-token-radar-01/dashboard/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TOKEN_RADAR-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/TOKEN_RADAR-ffffff?style=flat-square" alt="Token Radar"/></picture></a>
+<a href="https://github.com/hibikazen/smart-contract-attack-patterns"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ATTACK_PATTERNS-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/ATTACK_PATTERNS-ffffff?style=flat-square" alt="Attack patterns"/></picture></a>
+<a href="https://github.com/hibikazen/web3-bug-bounty-programs"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/BOUNTY_PROGRAMS-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/BOUNTY_PROGRAMS-ffffff?style=flat-square" alt="Bounty programs"/></picture></a>
+<a href="https://github.com/hibikazen/bounty-poc-kit"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/POC_KIT-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/POC_KIT-ffffff?style=flat-square" alt="PoC kit"/></picture></a>
 
 </div>
 
