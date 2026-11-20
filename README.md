@@ -11,14 +11,20 @@ I hunt vulnerabilities across Web3 and the web, and I build open tooling that he
 
 ## Featured projects
 
-[![ai-bug-bounty-hunter](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=ai-bug-bounty-hunter)](https://github.com/hibikazen/ai-bug-bounty-hunter)
-[![makefun-gta6-01](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-gta6-01)](https://github.com/hibikazen/makefun-gta6-01)
+[![ai-bug-bounty-hunter](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=ai-bug-bounty-hunter&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/hibikazen/ai-bug-bounty-hunter)
+[![ai-bug-bounty-hunter](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=ai-bug-bounty-hunter&hide_border=true#gh-light-mode-only)](https://github.com/hibikazen/ai-bug-bounty-hunter)
+[![makefun-gta6-01](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-gta6-01&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/hibikazen/makefun-gta6-01)
+[![makefun-gta6-01](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-gta6-01&hide_border=true#gh-light-mode-only)](https://github.com/hibikazen/makefun-gta6-01)
 
-[![makefun-token-radar-01](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-token-radar-01)](https://github.com/hibikazen/makefun-token-radar-01)
-[![makefun-gta6-trophy-guide-01](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-gta6-trophy-guide-01)](https://github.com/hibikazen/makefun-gta6-trophy-guide-01)
+[![makefun-token-radar-01](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-token-radar-01&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/hibikazen/makefun-token-radar-01)
+[![makefun-token-radar-01](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-token-radar-01&hide_border=true#gh-light-mode-only)](https://github.com/hibikazen/makefun-token-radar-01)
+[![makefun-gta6-trophy-guide-01](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-gta6-trophy-guide-01&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/hibikazen/makefun-gta6-trophy-guide-01)
+[![makefun-gta6-trophy-guide-01](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-gta6-trophy-guide-01&hide_border=true#gh-light-mode-only)](https://github.com/hibikazen/makefun-gta6-trophy-guide-01)
 
-[![makefun-gta6-cover-art-01](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-gta6-cover-art-01)](https://github.com/hibikazen/makefun-gta6-cover-art-01)
-[![makefun-news-image-20261120](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-news-image-20261120)](https://github.com/hibikazen/makefun-news-image-20261120)
+[![makefun-gta6-cover-art-01](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-gta6-cover-art-01&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/hibikazen/makefun-gta6-cover-art-01)
+[![makefun-gta6-cover-art-01](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-gta6-cover-art-01&hide_border=true#gh-light-mode-only)](https://github.com/hibikazen/makefun-gta6-cover-art-01)
+[![makefun-news-image-20261120](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-news-image-20261120&theme=github_dark&hide_border=true#gh-dark-mode-only)](https://github.com/hibikazen/makefun-news-image-20261120)
+[![makefun-news-image-20261120](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-news-image-20261120&hide_border=true#gh-light-mode-only)](https://github.com/hibikazen/makefun-news-image-20261120)
 
 ## Try the live demos
 
@@ -40,5 +46,7 @@ I hunt vulnerabilities across Web3 and the web, and I build open tooling that he
 
 ## Stats
 
-![Hibikazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hibikazen&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hibikazen&layout=compact&hide_border=true)
+![Hibikazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hibikazen&show_icons=true&hide_border=true&theme=github_dark&custom_title=Hibikazen%27s%20GitHub%20Stats#gh-dark-mode-only)
+![Hibikazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hibikazen&show_icons=true&hide_border=true&custom_title=Hibikazen%27s%20GitHub%20Stats#gh-light-mode-only)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hibikazen&layout=compact&hide_border=true&theme=github_dark#gh-dark-mode-only)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hibikazen&layout=compact&hide_border=true#gh-light-mode-only)
