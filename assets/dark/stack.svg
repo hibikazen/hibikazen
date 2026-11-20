@@ -1,0 +1,58 @@
+<svg viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="stack — 8 technologies">
+<style>
+.mono{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+.ln{stroke-dasharray:1200;stroke-dashoffset:1200;animation:dr 1.2s cubic-bezier(.6,0,.2,1) forwards}
+@keyframes dr{to{stroke-dashoffset:0}}
+.up{opacity:0;animation:up .8s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.in{opacity:0;animation:fi .7s ease forwards}
+@keyframes fi{to{opacity:1}}
+.blink{animation:bl 2.2s ease-in-out infinite}
+@keyframes bl{0%,100%{opacity:1}50%{opacity:.25}}
+.d1{animation-delay:.15s}.d2{animation-delay:.35s}.d3{animation-delay:.55s}
+.d4{animation-delay:.75s}.d5{animation-delay:.95s}.d6{animation-delay:1.15s}
+.d7{animation-delay:1.35s}.d8{animation-delay:1.55s}
+@media (prefers-reduced-motion:reduce){.ln,.up,.in,.blink{animation:none}.ln{stroke-dashoffset:0}.up,.in{opacity:1}}
+</style>
+<rect width="1000" height="220" fill="#0d1117"/>
+<g class="up d1">
+<rect x="48" y="48" width="202" height="56" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text class="mono" x="58" y="66" font-size="9" fill="#777777">01</text>
+<text class="mono" x="149" y="84" font-size="15" fill="#f0f0f0" letter-spacing="2" text-anchor="middle">SOLIDITY</text>
+</g>
+<g class="up d2">
+<rect x="282" y="48" width="202" height="56" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text class="mono" x="292" y="66" font-size="9" fill="#777777">02</text>
+<text class="mono" x="383" y="84" font-size="15" fill="#f0f0f0" letter-spacing="2" text-anchor="middle">RUST</text>
+</g>
+<g class="up d3">
+<rect x="516" y="48" width="202" height="56" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text class="mono" x="526" y="66" font-size="9" fill="#777777">03</text>
+<text class="mono" x="617" y="84" font-size="15" fill="#f0f0f0" letter-spacing="2" text-anchor="middle">TYPESCRIPT</text>
+</g>
+<g class="up d4">
+<rect x="750" y="48" width="202" height="56" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text class="mono" x="760" y="66" font-size="9" fill="#777777">04</text>
+<text class="mono" x="851" y="84" font-size="15" fill="#f0f0f0" letter-spacing="2" text-anchor="middle">JAVASCRIPT</text>
+</g>
+<g class="up d5">
+<rect x="48" y="128" width="202" height="56" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text class="mono" x="58" y="146" font-size="9" fill="#777777">05</text>
+<text class="mono" x="149" y="164" font-size="15" fill="#f0f0f0" letter-spacing="2" text-anchor="middle">PYTHON</text>
+</g>
+<g class="up d6">
+<rect x="282" y="128" width="202" height="56" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text class="mono" x="292" y="146" font-size="9" fill="#777777">06</text>
+<text class="mono" x="383" y="164" font-size="15" fill="#f0f0f0" letter-spacing="2" text-anchor="middle">SOLANA</text>
+</g>
+<g class="up d7">
+<rect x="516" y="128" width="202" height="56" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text class="mono" x="526" y="146" font-size="9" fill="#777777">07</text>
+<text class="mono" x="617" y="164" font-size="15" fill="#f0f0f0" letter-spacing="2" text-anchor="middle">ETHEREUM</text>
+</g>
+<g class="up d8">
+<rect x="750" y="128" width="202" height="56" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text class="mono" x="760" y="146" font-size="9" fill="#777777">08</text>
+<text class="mono" x="851" y="164" font-size="15" fill="#f0f0f0" letter-spacing="2" text-anchor="middle">FOUNDRY</text>
+</g>
+</svg>

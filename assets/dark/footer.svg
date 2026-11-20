@@ -1,0 +1,28 @@
+<svg viewBox="0 0 1000 140" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="current status">
+<style>
+.mono{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+.ln{stroke-dasharray:1200;stroke-dashoffset:1200;animation:dr 1.2s cubic-bezier(.6,0,.2,1) forwards}
+@keyframes dr{to{stroke-dashoffset:0}}
+.up{opacity:0;animation:up .8s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.in{opacity:0;animation:fi .7s ease forwards}
+@keyframes fi{to{opacity:1}}
+.blink{animation:bl 2.2s ease-in-out infinite}
+@keyframes bl{0%,100%{opacity:1}50%{opacity:.25}}
+.d1{animation-delay:.15s}.d2{animation-delay:.35s}.d3{animation-delay:.55s}
+.d4{animation-delay:.75s}.d5{animation-delay:.95s}.d6{animation-delay:1.15s}
+.d7{animation-delay:1.35s}.d8{animation-delay:1.55s}
+@media (prefers-reduced-motion:reduce){.ln,.up,.in,.blink{animation:none}.ln{stroke-dashoffset:0}.up,.in{opacity:1}}
+</style>
+<rect width="1000" height="140" fill="#0d1117"/>
+<line class="ln d1" x1="48" y1="24" x2="952" y2="24" stroke="#333333" stroke-width="1"/>
+<g class="in d2">
+<circle class="blink" cx="54" cy="59" r="5" fill="#f0f0f0"/>
+<text class="mono" x="72" y="64" font-size="15" fill="#f0f0f0">STATUS — hunting bounties · building agent tooling</text>
+<text class="mono" x="952" y="64" font-size="11" fill="#999999" letter-spacing="2.5" text-anchor="end">● LIVE</text>
+</g>
+<g class="in d3">
+<text class="mono" x="48" y="104" font-size="12" fill="#777777" letter-spacing="1">HIBIKAZEN — end of transmission.</text>
+<text class="mono" x="952" y="104" font-size="12" fill="#777777" letter-spacing="1" text-anchor="end">EOF · © 2026</text>
+</g>
+</svg>

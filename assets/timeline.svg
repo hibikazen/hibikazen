@@ -1,0 +1,39 @@
+<svg viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="the route — timeline">
+<style>
+.mono{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+.ln{stroke-dasharray:1200;stroke-dashoffset:1200;animation:dr 1.2s cubic-bezier(.6,0,.2,1) forwards}
+@keyframes dr{to{stroke-dashoffset:0}}
+.up{opacity:0;animation:up .8s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.in{opacity:0;animation:fi .7s ease forwards}
+@keyframes fi{to{opacity:1}}
+.blink{animation:bl 2.2s ease-in-out infinite}
+@keyframes bl{0%,100%{opacity:1}50%{opacity:.25}}
+.d1{animation-delay:.15s}.d2{animation-delay:.35s}.d3{animation-delay:.55s}
+.d4{animation-delay:.75s}.d5{animation-delay:.95s}.d6{animation-delay:1.15s}
+.d7{animation-delay:1.35s}.d8{animation-delay:1.55s}
+@media (prefers-reduced-motion:reduce){.ln,.up,.in,.blink{animation:none}.ln{stroke-dashoffset:0}.up,.in{opacity:1}}
+</style>
+<rect width="1000" height="300" fill="#ffffff"/>
+<line class="ln d1" x1="134" y1="48" x2="134" y2="264" stroke="#cccccc" stroke-width="1"/>
+<g class="up d2">
+<circle cx="134" cy="59" r="5" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<text class="mono" x="110" y="64" font-size="13" fill="#666666" text-anchor="end">2026-11-01</text>
+<text class="mono" x="164" y="64" font-size="15" fill="#111111">GitHub account created — @hibikazen</text>
+</g>
+<g class="up d3">
+<circle cx="134" cy="119" r="5" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<text class="mono" x="110" y="124" font-size="13" fill="#666666" text-anchor="end">2026-11-19</text>
+<text class="mono" x="164" y="124" font-size="15" fill="#111111">bug bounty hunting begins</text>
+</g>
+<g class="up d4">
+<circle cx="134" cy="179" r="5" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<text class="mono" x="110" y="184" font-size="13" fill="#666666" text-anchor="end">2026-11-19/20</text>
+<text class="mono" x="164" y="184" font-size="15" fill="#111111">first apps &amp; bounty entries shipped</text>
+</g>
+<g class="up d5">
+<circle cx="134" cy="239" r="5" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<text class="mono" x="110" y="244" font-size="13" fill="#666666" text-anchor="end">2026-11-20</text>
+<text class="mono" x="164" y="244" font-size="15" fill="#111111">ai-bug-bounty-hunter starter kit published</text>
+</g>
+</svg>

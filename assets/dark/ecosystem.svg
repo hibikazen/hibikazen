@@ -1,0 +1,45 @@
+<svg viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="system map — hunt, build, ship">
+<style>
+.mono{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+.ln{stroke-dasharray:1200;stroke-dashoffset:1200;animation:dr 1.2s cubic-bezier(.6,0,.2,1) forwards}
+@keyframes dr{to{stroke-dashoffset:0}}
+.up{opacity:0;animation:up .8s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.in{opacity:0;animation:fi .7s ease forwards}
+@keyframes fi{to{opacity:1}}
+.blink{animation:bl 2.2s ease-in-out infinite}
+@keyframes bl{0%,100%{opacity:1}50%{opacity:.25}}
+.d1{animation-delay:.15s}.d2{animation-delay:.35s}.d3{animation-delay:.55s}
+.d4{animation-delay:.75s}.d5{animation-delay:.95s}.d6{animation-delay:1.15s}
+.d7{animation-delay:1.35s}.d8{animation-delay:1.55s}
+@media (prefers-reduced-motion:reduce){.ln,.up,.in,.blink{animation:none}.ln{stroke-dashoffset:0}.up,.in{opacity:1}}
+</style>
+<rect width="1000" height="300" fill="#0d1117"/>
+<g class="up d1">
+<rect x="48" y="56" width="264" height="150" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text class="mono" x="68" y="90" font-size="14" fill="#cccccc" letter-spacing="3">01 — HUNT</text>
+<line x1="68" y1="106" x2="292" y2="106" stroke="#333333" stroke-width="1" opacity=".6"/>
+<text class="mono" x="68" y="134" font-size="13" fill="#e6e6e6">find vulnerabilities</text>
+<text class="mono" x="68" y="158" font-size="13" fill="#e6e6e6">in live programs,</text>
+<text class="mono" x="68" y="182" font-size="13" fill="#e6e6e6">proof before report</text>
+</g>
+<g class="in d2"><line x1="328" y1="131" x2="350" y2="131" stroke="#333333" stroke-width="1"/><text class="mono" x="352" y="136" font-size="13" fill="#cccccc">▸</text></g>
+<g class="up d2">
+<rect x="368" y="56" width="264" height="150" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text class="mono" x="388" y="90" font-size="14" fill="#cccccc" letter-spacing="3">02 — BUILD</text>
+<line x1="388" y1="106" x2="612" y2="106" stroke="#333333" stroke-width="1" opacity=".6"/>
+<text class="mono" x="388" y="134" font-size="13" fill="#e6e6e6">agent tooling and</text>
+<text class="mono" x="388" y="158" font-size="13" fill="#e6e6e6">starter kits for</text>
+<text class="mono" x="388" y="182" font-size="13" fill="#e6e6e6">AI-assisted hunting</text>
+</g>
+<g class="in d3"><line x1="648" y1="131" x2="670" y2="131" stroke="#333333" stroke-width="1"/><text class="mono" x="672" y="136" font-size="13" fill="#cccccc">▸</text></g>
+<g class="up d3">
+<rect x="688" y="56" width="264" height="150" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text class="mono" x="708" y="90" font-size="14" fill="#cccccc" letter-spacing="3">03 — SHIP</text>
+<line x1="708" y1="106" x2="932" y2="106" stroke="#333333" stroke-width="1" opacity=".6"/>
+<text class="mono" x="708" y="134" font-size="13" fill="#e6e6e6">apps, games and guides</text>
+<text class="mono" x="708" y="158" font-size="13" fill="#e6e6e6">shipped in the open,</text>
+<text class="mono" x="708" y="182" font-size="13" fill="#e6e6e6">live on GitHub Pages</text>
+</g>
+<text class="mono in d5" x="48" y="256" font-size="13" fill="#999999">one loop: what hunting teaches, the tooling carries; what the tooling proves, the apps ship.</text>
+</svg>

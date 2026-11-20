@@ -1,0 +1,28 @@
+<svg viewBox="0 0 1000 236" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="whoami — role, focus, base, status">
+<style>
+.mono{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+.ln{stroke-dasharray:1200;stroke-dashoffset:1200;animation:dr 1.2s cubic-bezier(.6,0,.2,1) forwards}
+@keyframes dr{to{stroke-dashoffset:0}}
+.up{opacity:0;animation:up .8s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.in{opacity:0;animation:fi .7s ease forwards}
+@keyframes fi{to{opacity:1}}
+.blink{animation:bl 2.2s ease-in-out infinite}
+@keyframes bl{0%,100%{opacity:1}50%{opacity:.25}}
+.d1{animation-delay:.15s}.d2{animation-delay:.35s}.d3{animation-delay:.55s}
+.d4{animation-delay:.75s}.d5{animation-delay:.95s}.d6{animation-delay:1.15s}
+.d7{animation-delay:1.35s}.d8{animation-delay:1.55s}
+@media (prefers-reduced-motion:reduce){.ln,.up,.in,.blink{animation:none}.ln{stroke-dashoffset:0}.up,.in{opacity:1}}
+</style>
+<rect width="1000" height="236" fill="#ffffff"/>
+<text class="mono up d1" x="48" y="32" font-size="16" fill="#111111">bug bounty hunter — Web3 &amp; web. every report proven before it ships.</text>
+<text class="mono up d2" x="48" y="60" font-size="16" fill="#111111">building open tooling so anyone can set up an AI agent to hunt.</text>
+<text class="mono up d3" x="48" y="88" font-size="15" fill="#666666">quality over volume — no noise, no mass-submitted AI slop.</text>
+<line class="in d4" x1="48" y1="116" x2="952" y2="116" stroke="#cccccc" stroke-width="1" opacity=".55"/>
+<text class="mono up d4" x="48" y="148" font-size="11" fill="#666666" letter-spacing="2.5">FOCUS</text>
+<text class="mono up d4" x="154" y="148" font-size="15" fill="#111111">vulnerability research · AI-assisted security · open tooling</text>
+<text class="mono up d5" x="48" y="182" font-size="11" fill="#666666" letter-spacing="2.5">BASE</text>
+<text class="mono up d5" x="154" y="182" font-size="15" fill="#111111">Indonesia — working in UTC+7</text>
+<text class="mono up d6" x="48" y="216" font-size="11" fill="#666666" letter-spacing="2.5">STATUS</text>
+<text class="mono up d6" x="154" y="216" font-size="15" fill="#111111">hunting bounties · building agent tooling</text>
+</svg>

@@ -1,0 +1,66 @@
+<svg viewBox="0 0 1000 440" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="projects — 7 repositories">
+<style>
+.mono{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+.ln{stroke-dasharray:1200;stroke-dashoffset:1200;animation:dr 1.2s cubic-bezier(.6,0,.2,1) forwards}
+@keyframes dr{to{stroke-dashoffset:0}}
+.up{opacity:0;animation:up .8s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.in{opacity:0;animation:fi .7s ease forwards}
+@keyframes fi{to{opacity:1}}
+.blink{animation:bl 2.2s ease-in-out infinite}
+@keyframes bl{0%,100%{opacity:1}50%{opacity:.25}}
+.d1{animation-delay:.15s}.d2{animation-delay:.35s}.d3{animation-delay:.55s}
+.d4{animation-delay:.75s}.d5{animation-delay:.95s}.d6{animation-delay:1.15s}
+.d7{animation-delay:1.35s}.d8{animation-delay:1.55s}
+@media (prefers-reduced-motion:reduce){.ln,.up,.in,.blink{animation:none}.ln{stroke-dashoffset:0}.up,.in{opacity:1}}
+</style>
+<rect width="1000" height="440" fill="#0d1117"/>
+<g class="in d1">
+<text class="mono" x="48" y="30" font-size="11" fill="#999999" letter-spacing="2.5">REPO</text>
+<text class="mono" x="430" y="30" font-size="11" fill="#999999" letter-spacing="2.5">WHAT IT IS</text>
+<text class="mono" x="952" y="30" font-size="11" fill="#999999" letter-spacing="2.5" text-anchor="end">TYPE</text>
+</g>
+<line class="ln d1" x1="48" y1="44" x2="952" y2="44" stroke="#333333" stroke-width="1"/>
+<g class="up d2">
+<text class="mono" x="48" y="76" font-size="15" fill="#f0f0f0">ai-bug-bounty-hunter</text>
+<text class="mono" x="430" y="76" font-size="14" fill="#999999">agent-agnostic starter kit for AI bounty hunting</text>
+<text class="mono" x="952" y="76" font-size="11" fill="#cccccc" letter-spacing="1.5" text-anchor="end">KIT</text>
+</g>
+<line x1="48" y1="96" x2="952" y2="96" stroke="#333333" stroke-width="1" opacity=".35"/>
+<g class="up d3">
+<text class="mono" x="48" y="128" font-size="15" fill="#f0f0f0">makefun-gta6-01</text>
+<text class="mono" x="430" y="128" font-size="14" fill="#999999">Sunset Bay — open-world crime game in the browser</text>
+<text class="mono" x="952" y="128" font-size="11" fill="#cccccc" letter-spacing="1.5" text-anchor="end">GAME · LIVE</text>
+</g>
+<line x1="48" y1="148" x2="952" y2="148" stroke="#333333" stroke-width="1" opacity=".35"/>
+<g class="up d4">
+<text class="mono" x="48" y="180" font-size="15" fill="#f0f0f0">makefun-gta6-trophy-guide-01</text>
+<text class="mono" x="430" y="180" font-size="14" fill="#999999">Leonida Platinum — all 55 PS5 trophies, tracked</text>
+<text class="mono" x="952" y="180" font-size="11" fill="#cccccc" letter-spacing="1.5" text-anchor="end">GUIDE · LIVE</text>
+</g>
+<line x1="48" y1="200" x2="952" y2="200" stroke="#333333" stroke-width="1" opacity=".35"/>
+<g class="up d5">
+<text class="mono" x="48" y="232" font-size="15" fill="#f0f0f0">makefun-gta6-cover-art-01</text>
+<text class="mono" x="430" y="232" font-size="14" fill="#999999">Sunset Cover Studio — GTA-style cover art maker</text>
+<text class="mono" x="952" y="232" font-size="11" fill="#cccccc" letter-spacing="1.5" text-anchor="end">APP · LIVE</text>
+</g>
+<line x1="48" y1="252" x2="952" y2="252" stroke="#333333" stroke-width="1" opacity=".35"/>
+<g class="up d6">
+<text class="mono" x="48" y="284" font-size="15" fill="#f0f0f0">makefun-token-radar-01</text>
+<text class="mono" x="430" y="284" font-size="14" fill="#999999">token launch radar with farm plans</text>
+<text class="mono" x="952" y="284" font-size="11" fill="#cccccc" letter-spacing="1.5" text-anchor="end">RADAR · LIVE</text>
+</g>
+<line x1="48" y1="304" x2="952" y2="304" stroke="#333333" stroke-width="1" opacity=".35"/>
+<g class="up d7">
+<text class="mono" x="48" y="336" font-size="15" fill="#f0f0f0">makefun-news-image-20261119</text>
+<text class="mono" x="430" y="336" font-size="14" fill="#999999">world news of 19 Nov 2026, in one image</text>
+<text class="mono" x="952" y="336" font-size="11" fill="#cccccc" letter-spacing="1.5" text-anchor="end">INFOGRAPHIC</text>
+</g>
+<line x1="48" y1="356" x2="952" y2="356" stroke="#333333" stroke-width="1" opacity=".35"/>
+<g class="up d8">
+<text class="mono" x="48" y="388" font-size="15" fill="#f0f0f0">makefun-news-image-20261120</text>
+<text class="mono" x="430" y="388" font-size="14" fill="#999999">world news of 20 Nov 2026, in one image</text>
+<text class="mono" x="952" y="388" font-size="11" fill="#cccccc" letter-spacing="1.5" text-anchor="end">INFOGRAPHIC</text>
+</g>
+<line class="in d8" x1="48" y1="414" x2="952" y2="414" stroke="#333333" stroke-width="1"/>
+</svg>

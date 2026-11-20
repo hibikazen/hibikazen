@@ -1,44 +1,38 @@
-# Hi there, I'm Hibikazen 👋
+<div align="center">
 
-**Bug bounty hunter · Building with AI agents**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Hibikazen"/></picture>
 
-I hunt vulnerabilities across Web3 and the web, and I build open tooling that helps anyone set up an AI agent to do the same — safely, honestly, and with proof before every report.
+<a href="https://github.com/hibikazen/ai-bug-bounty-hunter"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/STARTER_KIT-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/STARTER_KIT-ffffff?style=flat-square" alt="Starter kit"/></picture></a>
+<a href="https://hibikazen.github.io/makefun-gta6-01/game/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SUNSET_BAY-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/SUNSET_BAY-ffffff?style=flat-square" alt="Sunset Bay game"/></picture></a>
+<a href="https://hibikazen.github.io/makefun-token-radar-01/dashboard/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TOKEN_RADAR-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/TOKEN_RADAR-ffffff?style=flat-square" alt="Token Radar"/></picture></a>
 
-- 🔍 Currently hunting bug bounties across Web3 & web programs
-- 🤖 Building agent-agnostic starter kits for AI-assisted security research
-- 🎮 Also shipping small web apps and games in my spare time
-- 🌱 Learning something new with every target
+</div>
 
-## Featured projects
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Hibikazen"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — system map"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"/><img src="assets/ecosystem.svg" alt="Work ecosystem"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — projects"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="7 projects"/></picture>
 
-[![ai-bug-bounty-hunter](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=ai-bug-bounty-hunter&theme=github_dark&hide_border=true)](https://github.com/hibikazen/ai-bug-bounty-hunter)
-[![makefun-gta6-01](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-gta6-01&theme=github_dark&hide_border=true)](https://github.com/hibikazen/makefun-gta6-01)
+<p align="center">live — <a href="https://hibikazen.github.io/makefun-gta6-01/game/">Sunset Bay</a> · <a href="https://hibikazen.github.io/makefun-gta6-trophy-guide-01/app/">Leonida Platinum</a> · <a href="https://hibikazen.github.io/makefun-gta6-cover-art-01/app/">Sunset Cover Studio</a> · <a href="https://hibikazen.github.io/makefun-token-radar-01/dashboard/">Token Radar</a></p>
 
-[![makefun-token-radar-01](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-token-radar-01&theme=github_dark&hide_border=true)](https://github.com/hibikazen/makefun-token-radar-01)
-[![makefun-gta6-trophy-guide-01](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-gta6-trophy-guide-01&theme=github_dark&hide_border=true)](https://github.com/hibikazen/makefun-gta6-trophy-guide-01)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — telemetry"/></picture>
 
-[![makefun-gta6-cover-art-01](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-gta6-cover-art-01&theme=github_dark&hide_border=true)](https://github.com/hibikazen/makefun-gta6-cover-art-01)
-[![makefun-news-image-20261120](https://github-readme-stats.vercel.app/api/pin/?username=hibikazen&repo=makefun-news-image-20261120&theme=github_dark&hide_border=true)](https://github.com/hibikazen/makefun-news-image-20261120)
+<div align="center">
 
-## Try the live demos
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hibikazen&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ffffff&amp;text_color=ffffff&amp;icon_color=ffffff&amp;custom_title=Hibikazen%27s%20GitHub%20Stats"/><img src="https://github-readme-stats.vercel.app/api?username=hibikazen&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=000000&amp;text_color=000000&amp;icon_color=000000&amp;custom_title=Hibikazen%27s%20GitHub%20Stats" width="97%" alt="GitHub statistics"/></picture>
 
-- 🎮 [Sunset Bay — open-world crime game](https://hibikazen.github.io/makefun-gta6-01/game/)
-- 🏆 [Leonida Platinum — GTA 6 trophy guide & tracker](https://hibikazen.github.io/makefun-gta6-trophy-guide-01/app/)
-- 🎨 [Sunset Cover Studio — GTA 6-style cover art maker](https://hibikazen.github.io/makefun-gta6-cover-art-01/app/)
-- 📡 [Token Launch Radar](https://hibikazen.github.io/makefun-token-radar-01/dashboard/)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hibikazen&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ffffff&amp;text_color=ffffff"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibikazen&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=000000&amp;text_color=000000" width="97%" alt="Most used languages"/></picture>
 
-## Stack
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hibikazen&amp;bg_color=00000000&amp;color=ffffff&amp;line=ffffff&amp;point=ffffff&amp;area_color=ffffff&amp;area=true&amp;hide_border=true&amp;radius=0&amp;custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=hibikazen&amp;bg_color=00000000&amp;color=000000&amp;line=000000&amp;point=000000&amp;area_color=000000&amp;area=true&amp;hide_border=true&amp;radius=0&amp;custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-000000?logo=foundry&logoColor=white)
+</div>
 
-## Stats
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"/><img src="assets/s05.svg" alt="05 — the route"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg"/><img src="assets/timeline.svg" alt="Timeline"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" alt="06 — stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
 
-![Hibikazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hibikazen&show_icons=true&hide_border=true&theme=github_dark&custom_title=Hibikazen%27s%20GitHub%20Stats)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hibikazen&layout=compact&hide_border=true&theme=github_dark)
+<!-- one responsive picture per visual; light and dark variants switch by color scheme -->
