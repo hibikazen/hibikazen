@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 440" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="projects — 7 repositories">
+<svg viewBox="0 0 1000 654" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="projects — 10 repositories">
 <style>
 .mono{font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
 .ln{stroke-dasharray:1200;stroke-dashoffset:1200;animation:dr 1.2s cubic-bezier(.6,0,.2,1) forwards}
@@ -12,55 +12,84 @@
 .d1{animation-delay:.15s}.d2{animation-delay:.35s}.d3{animation-delay:.55s}
 .d4{animation-delay:.75s}.d5{animation-delay:.95s}.d6{animation-delay:1.15s}
 .d7{animation-delay:1.35s}.d8{animation-delay:1.55s}
+.d9{animation-delay:1.75s}.d10{animation-delay:1.95s}
+.d11{animation-delay:2.15s}.d12{animation-delay:2.35s}.d13{animation-delay:2.55s}
 @media (prefers-reduced-motion:reduce){.ln,.up,.in,.blink{animation:none}.ln{stroke-dashoffset:0}.up,.in{opacity:1}}
 </style>
-<rect width="1000" height="440" fill="#ffffff"/>
+<rect width="1000" height="654" fill="#ffffff"/>
 <g class="in d1">
 <text class="mono" x="48" y="30" font-size="11" fill="#666666" letter-spacing="2.5">REPO</text>
 <text class="mono" x="430" y="30" font-size="11" fill="#666666" letter-spacing="2.5">WHAT IT IS</text>
 <text class="mono" x="952" y="30" font-size="11" fill="#666666" letter-spacing="2.5" text-anchor="end">TYPE</text>
 </g>
 <line class="ln d1" x1="48" y1="44" x2="952" y2="44" stroke="#cccccc" stroke-width="1"/>
-<g class="up d2">
-<text class="mono" x="48" y="76" font-size="15" fill="#111111">ai-bug-bounty-hunter</text>
-<text class="mono" x="430" y="76" font-size="14" fill="#666666">agent-agnostic starter kit for AI bounty hunting</text>
-<text class="mono" x="952" y="76" font-size="11" fill="#333333" letter-spacing="1.5" text-anchor="end">KIT</text>
+<g class="in d2">
+<rect x="48" y="62" width="7" height="7" fill="#333333"/>
+<text class="mono" x="63" y="70" font-size="11" fill="#666666" letter-spacing="2.5">STANDALONE</text>
 </g>
-<line x1="48" y1="96" x2="952" y2="96" stroke="#cccccc" stroke-width="1" opacity=".35"/>
 <g class="up d3">
-<text class="mono" x="48" y="128" font-size="15" fill="#111111">makefun-gta6-01</text>
-<text class="mono" x="430" y="128" font-size="14" fill="#666666">Sunset Bay — open-world crime game in the browser</text>
-<text class="mono" x="952" y="128" font-size="11" fill="#333333" letter-spacing="1.5" text-anchor="end">GAME · LIVE</text>
+<text class="mono" x="48" y="102" font-size="15" fill="#111111">ai-bug-bounty-hunter</text>
+<text class="mono" x="430" y="102" font-size="14" fill="#666666">agent-agnostic starter kit for AI bounty hunting</text>
+<text class="mono" x="952" y="102" font-size="11" fill="#333333" letter-spacing="1.5" text-anchor="end">KIT</text>
 </g>
-<line x1="48" y1="148" x2="952" y2="148" stroke="#cccccc" stroke-width="1" opacity=".35"/>
+<line x1="48" y1="122" x2="952" y2="122" stroke="#cccccc" stroke-width="1" opacity=".35"/>
 <g class="up d4">
-<text class="mono" x="48" y="180" font-size="15" fill="#111111">makefun-gta6-trophy-guide-01</text>
-<text class="mono" x="430" y="180" font-size="14" fill="#666666">Leonida Platinum — all 55 PS5 trophies, tracked</text>
-<text class="mono" x="952" y="180" font-size="11" fill="#333333" letter-spacing="1.5" text-anchor="end">GUIDE · LIVE</text>
+<text class="mono" x="48" y="154" font-size="15" fill="#111111">smart-contract-attack-patterns</text>
+<text class="mono" x="430" y="154" font-size="14" fill="#666666">10 vuln patterns, runnable Foundry PoCs + fixes</text>
+<text class="mono" x="952" y="154" font-size="11" fill="#333333" letter-spacing="1.5" text-anchor="end">PATTERNS</text>
 </g>
-<line x1="48" y1="200" x2="952" y2="200" stroke="#cccccc" stroke-width="1" opacity=".35"/>
+<line x1="48" y1="174" x2="952" y2="174" stroke="#cccccc" stroke-width="1" opacity=".35"/>
 <g class="up d5">
-<text class="mono" x="48" y="232" font-size="15" fill="#111111">makefun-gta6-cover-art-01</text>
-<text class="mono" x="430" y="232" font-size="14" fill="#666666">Sunset Cover Studio — GTA-style cover art maker</text>
-<text class="mono" x="952" y="232" font-size="11" fill="#333333" letter-spacing="1.5" text-anchor="end">APP · LIVE</text>
+<text class="mono" x="48" y="206" font-size="15" fill="#111111">web3-bug-bounty-programs</text>
+<text class="mono" x="430" y="206" font-size="14" fill="#666666">verified directory of 36 Web3 bug bounty programs</text>
+<text class="mono" x="952" y="206" font-size="11" fill="#333333" letter-spacing="1.5" text-anchor="end">DIRECTORY</text>
 </g>
-<line x1="48" y1="252" x2="952" y2="252" stroke="#cccccc" stroke-width="1" opacity=".35"/>
+<line x1="48" y1="226" x2="952" y2="226" stroke="#cccccc" stroke-width="1" opacity=".35"/>
 <g class="up d6">
-<text class="mono" x="48" y="284" font-size="15" fill="#111111">makefun-token-radar-01</text>
-<text class="mono" x="430" y="284" font-size="14" fill="#666666">token launch radar with farm plans</text>
-<text class="mono" x="952" y="284" font-size="11" fill="#333333" letter-spacing="1.5" text-anchor="end">RADAR · LIVE</text>
+<text class="mono" x="48" y="258" font-size="15" fill="#111111">bounty-poc-kit</text>
+<text class="mono" x="430" y="258" font-size="14" fill="#666666">Foundry starter template for writing bounty PoCs</text>
+<text class="mono" x="952" y="258" font-size="11" fill="#333333" letter-spacing="1.5" text-anchor="end">TEMPLATE</text>
 </g>
-<line x1="48" y1="304" x2="952" y2="304" stroke="#cccccc" stroke-width="1" opacity=".35"/>
-<g class="up d7">
-<text class="mono" x="48" y="336" font-size="15" fill="#111111">makefun-news-image-20261119</text>
-<text class="mono" x="430" y="336" font-size="14" fill="#666666">world news of 19 Nov 2026, in one image</text>
-<text class="mono" x="952" y="336" font-size="11" fill="#333333" letter-spacing="1.5" text-anchor="end">INFOGRAPHIC</text>
+<line x1="48" y1="278" x2="952" y2="278" stroke="#cccccc" stroke-width="1" opacity=".35"/>
+<g class="in d7">
+<rect x="48" y="302" width="7" height="7" fill="#333333"/>
+<text class="mono" x="63" y="310" font-size="11" fill="#666666" letter-spacing="2.5">SHIPPED APPS</text>
 </g>
-<line x1="48" y1="356" x2="952" y2="356" stroke="#cccccc" stroke-width="1" opacity=".35"/>
 <g class="up d8">
-<text class="mono" x="48" y="388" font-size="15" fill="#111111">makefun-news-image-20261120</text>
-<text class="mono" x="430" y="388" font-size="14" fill="#666666">world news of 20 Nov 2026, in one image</text>
-<text class="mono" x="952" y="388" font-size="11" fill="#333333" letter-spacing="1.5" text-anchor="end">INFOGRAPHIC</text>
+<text class="mono" x="48" y="342" font-size="15" fill="#111111">makefun-gta6-01</text>
+<text class="mono" x="430" y="342" font-size="14" fill="#666666">Sunset Bay — open-world crime game in the browser</text>
+<text class="mono" x="952" y="342" font-size="11" fill="#333333" letter-spacing="1.5" text-anchor="end">GAME · LIVE</text>
 </g>
-<line class="in d8" x1="48" y1="414" x2="952" y2="414" stroke="#cccccc" stroke-width="1"/>
+<line x1="48" y1="362" x2="952" y2="362" stroke="#cccccc" stroke-width="1" opacity=".35"/>
+<g class="up d9">
+<text class="mono" x="48" y="394" font-size="15" fill="#111111">makefun-gta6-trophy-guide-01</text>
+<text class="mono" x="430" y="394" font-size="14" fill="#666666">Leonida Platinum — all 55 PS5 trophies, tracked</text>
+<text class="mono" x="952" y="394" font-size="11" fill="#333333" letter-spacing="1.5" text-anchor="end">GUIDE · LIVE</text>
+</g>
+<line x1="48" y1="414" x2="952" y2="414" stroke="#cccccc" stroke-width="1" opacity=".35"/>
+<g class="up d10">
+<text class="mono" x="48" y="446" font-size="15" fill="#111111">makefun-gta6-cover-art-01</text>
+<text class="mono" x="430" y="446" font-size="14" fill="#666666">Sunset Cover Studio — GTA-style cover art maker</text>
+<text class="mono" x="952" y="446" font-size="11" fill="#333333" letter-spacing="1.5" text-anchor="end">APP · LIVE</text>
+</g>
+<line x1="48" y1="466" x2="952" y2="466" stroke="#cccccc" stroke-width="1" opacity=".35"/>
+<g class="up d11">
+<text class="mono" x="48" y="498" font-size="15" fill="#111111">makefun-token-radar-01</text>
+<text class="mono" x="430" y="498" font-size="14" fill="#666666">token launch radar with farm plans</text>
+<text class="mono" x="952" y="498" font-size="11" fill="#333333" letter-spacing="1.5" text-anchor="end">RADAR · LIVE</text>
+</g>
+<line x1="48" y1="518" x2="952" y2="518" stroke="#cccccc" stroke-width="1" opacity=".35"/>
+<g class="up d12">
+<text class="mono" x="48" y="550" font-size="15" fill="#111111">makefun-news-image-20261119</text>
+<text class="mono" x="430" y="550" font-size="14" fill="#666666">world news of 19 Nov 2026, in one image</text>
+<text class="mono" x="952" y="550" font-size="11" fill="#333333" letter-spacing="1.5" text-anchor="end">INFOGRAPHIC</text>
+</g>
+<line x1="48" y1="570" x2="952" y2="570" stroke="#cccccc" stroke-width="1" opacity=".35"/>
+<g class="up d13">
+<text class="mono" x="48" y="602" font-size="15" fill="#111111">makefun-news-image-20261120</text>
+<text class="mono" x="430" y="602" font-size="14" fill="#666666">world news of 20 Nov 2026, in one image</text>
+<text class="mono" x="952" y="602" font-size="11" fill="#333333" letter-spacing="1.5" text-anchor="end">INFOGRAPHIC</text>
+</g>
+<line x1="48" y1="622" x2="952" y2="622" stroke="#cccccc" stroke-width="1" opacity=".35"/>
+<line class="in d13" x1="48" y1="628" x2="952" y2="628" stroke="#cccccc" stroke-width="1"/>
 </svg>
