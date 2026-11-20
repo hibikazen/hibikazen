@@ -1,4 +1,4 @@
-# Hi there, I'm Andra 👋
+# Hi there, I'm Hibikazen 👋
 
 **Bug bounty hunter · Building with AI agents**
 
@@ -40,5 +40,5 @@ I hunt vulnerabilities across Web3 and the web, and I build open tooling that he
 
 ## Stats
 
-![Andra's GitHub stats](https://github-readme-stats.vercel.app/api?username=hibikazen&show_icons=true&hide_border=true)
+![Hibikazen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hibikazen&show_icons=true&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hibikazen&layout=compact&hide_border=true)
